@@ -1,28 +1,27 @@
 # The Federal Shadow: Asymmetric Transmission of US Monetary Cycles to India (2008–2024)
 
 ## Executive Summary
-This study investigates the asymmetric transmission of US Federal Reserve monetary policy cycles to Indian financial markets across 2008–2024. Evaluating foreign portfolio investment (FPI) flows, USD/INR exchange rate dynamics, and sectoral equity indices, the project establishes an empirical framework explaining how US monetary shocks transmit through a structured three-phase mechanism with pronounced downside asymmetry.
+This study studies the asymmetric effect of US Federal Reserve monetary policy cycles to Indian financial markets across 2008–2024. Evaluating foreign portfolio investment (FPI) flows, USD/INR exchange rate dynamics, and sectoral equity indices, the project aims to explain how US monetary shocks effect the Indian market through a three-phase analytical evaluation.
 
 ---
 
 ## Core Empirical Findings & Discussion
 
-### 1. Lead–Lag Dynamics & Transmission Asymmetry
-* **Timing Asymmetry (Currency Lead):** The USD/INR exchange rate acts as the primary transmission antenna, adjusting **2–3 months prior** to observable shifts in aggregate FPI flows.
-* **Magnitude Asymmetry:** FPI flow adjustments are **8× to 126× larger** in relative volatility than exchange rate movements, establishing cross-border capital flows as the primary shock carrier.
-* **Structural Currency Buffer & Partial Decoupling:** The INR depreciates sharply during tightening phases but appreciates weakly during easing phases. Central bank foreign exchange reserves and macro-prudential buffers partially decouple extreme FPI outflows from disorderly currency collapse.
+### 1.Transmission Asymmetry
+* **Timing Asymmetry (Currency Lead):** The USD/INR exchange rate acts as the primary transmission, adjusting **2–3 months prior** to observable shifts in FPI flows.
+* **Currency Buffer:** The INR depreciates sharply during tightening phases but appreciates weakly during easing phases. Central bank foreign exchange reserves and macro-buffers partially decouple extreme FPI outflows from a currency collapse.
 
-### 2. Three-Phase Transmission Model
-Market adjustments follow an invariant sequential pipeline across monetary cycles:
-1. **Pre-Event Phase (Currency Positioning):** FX markets price in anticipated Fed policy shifts; early defensive rotation begins.
-2. **Event Phase (Capital Flow Shock):** Acute volatility in institutional liquidity and sharp FPI capital reallocations.
-3. **Post-Event Phase (Sectoral Realignment):** Structural equity drawdowns materialize, with maximum divergence across industry sectors.
+### 2. Three-Phase Evaluation Model
+Market adjustments follow the pattern across monetary cycles:
+1. **Pre-Event Phase:** FX markets price in anticipated Fed policy shifts; early defensive rotation begins.
+2. **Event Phase:** Acute volatility in institutional liquidity and sharp FPI capital reallocations.
+3. **Post-Event Phase:** Structural equity drawdowns materialize, with maximum divergence across industry sectors.
 
-### 3. Cross-Sector Sensitivity & Rotation Dynamics
+### 3. Cross-Sector Sensitivity
 * **Sensitivity Gradient:** Empirical vulnerability follows a strict hierarchical order:
   $$\text{Banking / Financials} > \text{Energy} \approx \text{Information Technology} > \text{FMCG} > \text{USD/INR}$$
 * **Downside Asymmetry:** Tightening regimes generate deep, persistent drawdowns (**-7.60%** post-event average), whereas easing cycles produce transient, muted upside (**+3.50%** event average).
-* **Defensive Rotation & Crisis Dispersion:** Capital proactively rotates into defensive safe-havens (**FMCG**) ahead of major rate shocks. Macro crises do not cause uniform market declines; they widen cross-sector return dispersion.
+* **Defensive Rotation & Crisis Dispersion:** Capital rotates into defensive mode (**FMCG**) ahead of major rate shocks. Macro crises do not cause uniform market declines; they widen cross-sector return allocation.
 
 ---
 
